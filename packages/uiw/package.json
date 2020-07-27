@@ -119,7 +119,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-test-renderer": "16.13.1",
-    "terser-webpack-plugin": "3.0.1"
+    "terser-webpack-plugin": "3.0.8"
   },
   "browserslist": {
     "production": [
